@@ -3,15 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1490339220185813084" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://twitter.com/snp_tp" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
-  <a href="https://t.me/lwmcmm" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  <a href="https://discord.com/users/1490339220185813084" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;<a href="https://twitter.com/snp_tp" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/></a>&nbsp;<a href="https://t.me/lwmcmm" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 <!--
